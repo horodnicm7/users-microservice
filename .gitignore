@@ -1,0 +1,4 @@
+.idea/**
+users-venv/**
+**/__pycache__/**
+postgres-data/**
