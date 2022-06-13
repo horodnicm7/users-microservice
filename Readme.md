@@ -34,3 +34,7 @@ docker-compose up
 ```
 Now you should be able to run the project with volumes and the server will be 
 restarted each time you make a code change.
+
+## TODO
+1. add endpoints for favourite products (make them expandable)
+2. add endpoints for past orders
